@@ -1,0 +1,209 @@
+{
+    "nabavka_hrane": [
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:46",
+            "Granulacija": "1.5",
+            "Količina (kg)": 1250.0,
+            "Cijena/kg (KM)": 1.5,
+            "Ukupno (KM)": 1875.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:46",
+            "Granulacija": "2.0",
+            "Količina (kg)": 550.0,
+            "Cijena/kg (KM)": 2.0,
+            "Ukupno (KM)": 1100.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Granulacija": "3.0",
+            "Količina (kg)": 2000.0,
+            "Cijena/kg (KM)": 2.55,
+            "Ukupno (KM)": 5100.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Granulacija": "4.0",
+            "Količina (kg)": 100.0,
+            "Cijena/kg (KM)": 4.0,
+            "Ukupno (KM)": 400.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Granulacija": "1.5",
+            "Količina (kg)": 155.0,
+            "Cijena/kg (KM)": 1.55,
+            "Ukupno (KM)": 240.25,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Granulacija": "2.0",
+            "Količina (kg)": 1250.0,
+            "Cijena/kg (KM)": 2.0,
+            "Ukupno (KM)": 2500.0,
+            "Napomena": "TEST"
+        },
+        {
+            "Datum_obj": "2026-09-21",
+            "Datum_vrijeme_str": "21/09/2026 00:35",
+            "Granulacija": "1.5",
+            "Količina (kg)": 100.0,
+            "Cijena/kg (KM)": 1.5,
+            "Ukupno (KM)": 150.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-22",
+            "Datum_vrijeme_str": "22/09/2026 13:06",
+            "Granulacija": "1.5",
+            "Količina (kg)": 100.0,
+            "Cijena/kg (KM)": 1.5,
+            "Ukupno (KM)": 150.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-22",
+            "Datum_vrijeme_str": "22/09/2026 13:28",
+            "Granulacija": "1.5",
+            "Količina (kg)": 100.0,
+            "Cijena/kg (KM)": 1.5,
+            "Ukupno (KM)": 150.0,
+            "Napomena": ""
+        }
+    ],
+    "utrosak_hrane": [
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 15.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 17.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:47",
+            "Jezero": "JEZERO 2",
+            "Granulacija": "2.0",
+            "Količina (kg)": 22.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:48",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 55.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:48",
+            "Jezero": "JEZERO 3",
+            "Granulacija": "1.5",
+            "Količina (kg)": 25.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:48",
+            "Jezero": "JEZERO 4",
+            "Granulacija": "3.0",
+            "Količina (kg)": 55.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20.09.2026. 20:49",
+            "Jezero": "PRODAJA",
+            "Granulacija": "4.0",
+            "Količina (kg)": 10.0,
+            "Napomena": "Prodao Peri Periću za 2KM/kg"
+        },
+        {
+            "Datum_obj": "2026-09-20",
+            "Datum_vrijeme_str": "20/09/2026 22:24",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-21",
+            "Datum_vrijeme_str": "21/09/2026 00:35",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-22",
+            "Datum_vrijeme_str": "22/09/2026 13:06",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-22",
+            "Datum_vrijeme_str": "22/09/2026 13:29",
+            "Jezero": "JEZERO 1",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        },
+        {
+            "Datum_obj": "2026-09-22",
+            "Datum_vrijeme_str": "22/09/2026 13:29",
+            "Jezero": "JEZERO 4",
+            "Granulacija": "1.5",
+            "Količina (kg)": 10.0,
+            "Napomena": ""
+        }
+    ],
+    "podesavanja": {
+        "pismo": "Latinica",
+        "granulacije": [
+            "1.5",
+            "2.0",
+            "3.0",
+            "4.0",
+            "5.0"
+        ],
+        "jezera": [
+            "JEZERO 1",
+            "JEZERO 2",
+            "JEZERO 3",
+            "JEZERO 4",
+            "PRODAJA"
+        ],
+        "kriticno_kg": 20.0
+    }
+}
